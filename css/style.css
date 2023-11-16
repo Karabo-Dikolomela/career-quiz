@@ -28,7 +28,7 @@ h1 {
 
 h3 {
   font-size: 100%;
-  font-weight: 400;
+  font-weight: 2px;
   color: #343a40;
 }
 
@@ -49,6 +49,7 @@ h3 {
   color: #4a4a4a;
   max-width: 80%;
   position: relative;
+  margin-left: 5%;
 
 
 }
@@ -60,6 +61,8 @@ h3 {
 
 .card-content {
   padding: 1rem;
+  margin-left: 1rem;
+  padding-right: 0rem;
 }
 
 .content {
@@ -98,6 +101,7 @@ h3 {
   cursor: pointer;
   border-radius: 0.3rem;
   width:200px;
+  
 }
 
 .nameSection {
@@ -106,11 +110,11 @@ h3 {
   background-color: #f3f3f3;
   padding: 0.5rem;
   width: 500px;
-  margin-left: 10rem;
+  margin-left: 13%;
 }
 
 .name {
-  margin-left: 10rem;
+  margin-left: 13%;
 }
 
 input {
