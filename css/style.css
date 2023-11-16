@@ -85,22 +85,20 @@ h3 {
   display: flex;
   justify-content: right;
   align-self: flex-end;
-  margin-right:350px;
+  margin-right:270px;
   margin-bottom: 50px;
   margin-top: 20px;
 }
 
 #submitButton {
-  
   background-color: #649e8f;
   color: white;
   border: none;
-  
-  /* margin-left: 50%; */
   padding: 5px 10px;
   cursor: pointer;
   border-radius: 0.3rem;
   width:200px;
+  height: 50px;
   
 }
 
